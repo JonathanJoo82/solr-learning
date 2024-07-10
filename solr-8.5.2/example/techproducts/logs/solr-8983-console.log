@@ -1,0 +1,15 @@
+OpenJDK 64-Bit Server VM warning: Failed to reserve shared memory. (error = 12)
+OpenJDK 64-Bit Server VM warning: Failed to reserve shared memory. (error = 12)
+OpenJDK 64-Bit Server VM warning: Failed to reserve shared memory. (error = 12)
+2024-07-09 02:15:08.105 INFO  (main) [   ] o.e.j.u.log Logging initialized @950ms to org.eclipse.jetty.util.log.Slf4jLog
+2024-07-09 02:15:08.306 INFO  (main) [   ] o.e.j.s.Server jetty-9.4.24.v20191120; built: 2019-11-20T21:37:49.771Z; git: 363d5f2df3a8a28de40604320230664b9c793c16; jvm 11.0.21+9-post-Ubuntu-0ubuntu122.04
+2024-07-09 02:15:08.332 INFO  (main) [   ] o.e.j.d.p.ScanningAppProvider Deployment monitor [file:///mnt/c/Users/jonat/Programming/solr-learning/solr-8.5.2/server/contexts/] at interval 0
+2024-07-09 02:15:08.965 INFO  (main) [   ] o.e.j.w.StandardDescriptorProcessor NO JSP Support for /solr, did not find org.apache.jasper.servlet.JspServlet
+2024-07-09 02:15:08.977 INFO  (main) [   ] o.e.j.s.session DefaultSessionIdManager workerName=node0
+2024-07-09 02:15:08.977 INFO  (main) [   ] o.e.j.s.session No SessionScavenger set, using defaults
+2024-07-09 02:15:08.980 INFO  (main) [   ] o.e.j.s.session node0 Scavenging every 660000ms
+2024-07-09 02:15:09.053 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter Using logger factory org.apache.logging.slf4j.Log4jLoggerFactory
+2024-07-09 02:15:09.057 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter  ___      _       Welcome to Apache Solr™ version 8.5.2
+2024-07-09 02:15:09.057 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter / __| ___| |_ _   Starting in standalone mode on port 8983
+2024-07-09 02:15:09.057 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter \__ \/ _ \ | '_|  Install dir: /mnt/c/Users/jonat/Programming/solr-learning/solr-8.5.2
+2024-07-09 02:15:09.057 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter |___/\___/_|_|    Start time: 2024-07-09T02:15:09.057636Z
