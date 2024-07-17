@@ -1,0 +1,9 @@
+1.1.1 Managing text centric data
+
+Solr is opimized to handle data exhibiting four main characterisitics that are rough guidelines but not strict rules.
+1. Text-centric
+2. Read Dominant
+3. Document-oriented
+4. Flexible Schema
+
+Possible 5th characteristics is having a large volume of data to deal with.
